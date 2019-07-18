@@ -1,2 +1,6 @@
 src/**/*.scss
 pages/**/*.scss
+node_modules
+.next
+static
+temp
